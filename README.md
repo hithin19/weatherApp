@@ -18,4 +18,4 @@ Follow these steps to set up and run the project locally:
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
 
-  ##note u have create your account in weather api and use your own apikey in .env for the project to work 
+  note: u have create your account in weather api and use your own apikey in .env for the project to work 
